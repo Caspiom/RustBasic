@@ -1,6 +1,6 @@
 # Rust Hello Lessons
 
-This repository contains several Rust modules, each created with `cargo new`, covering fundamental Rust concepts. All modules are organized as subdirectories within this single repository (not as Git submodules), making it easy to manage and learn from multiple lessons in one place.
+This repository contains several Rust modules, each created with `cargo new`, covering fundamental Rust concepts. All modules are organized as subdirectories, making it easy to manage and learn from multiple lessons in one place.
 
 ## Lessons Included
 
