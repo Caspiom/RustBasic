@@ -15,8 +15,7 @@ This repository contains several Rust modules, each created with `cargo new`, co
 - **Control Flows**
 - **Structs**
 - **Error Handling**
-=======
->>>>>>> dac197e9860bbc38c2016c04f61a5c35be92609f
+- **Common Collections**
 
 Each module is self-contained and demonstrates practical examples of the respective Rust concept.
 
@@ -35,9 +34,4 @@ Each module is self-contained and demonstrates practical examples of the respect
    cargo run
    ```
 
-<<<<<<< HEAD
 
-=======
-> **Note:**  
-> Each lesson is a separate Cargo project. There are no Git submodules; all modules are regular subdirectories for easier management.
->>>>>>> dac197e9860bbc38c2016c04f61a5c35be92609f
