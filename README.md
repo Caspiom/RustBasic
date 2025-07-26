@@ -10,7 +10,6 @@ This repository contains several Rust modules, each created with `cargo new`, co
 - **Constants**
 - **Ownership**
 - **Variables Mutability**
-<<<<<<< HEAD
 - **Shadowing**
 - **Control Flows**
 - **Structs**
@@ -33,5 +32,3 @@ Each module is self-contained and demonstrates practical examples of the respect
    ```sh
    cargo run
    ```
-
-
